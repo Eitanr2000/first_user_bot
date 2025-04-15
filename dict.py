@@ -2,9 +2,9 @@ from pyrogram import Client, filters
 import asyncio
 
 # Ваш токен бота и имя сессии
-API_ID = 1737949
-API_HASH = 'f75dbae0bec8059703ccd3bcf71ef2bb'
-TOKEN = '1201017698:AAGqRTS3lWHAAklfoqI8byH5u14XOxkYtag'
+API_ID = ---------------------
+API_HASH = '-------------------------'
+TOKEN = '--------------------'
 
 app = Client("my_bot", api_id=API_ID, api_hash=API_HASH, bot_token=TOKEN)
 
