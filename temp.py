@@ -6,7 +6,7 @@ import random
 import asyncio
 import logging
 
-app = Client("my_account", api_id=1737949, api_hash="f75dbae0bec8059703ccd3bcf71ef2bb")
+app = Client("my_account", api_id=--------, api_hash="-----------")
 def get_random_unicode_char():
     chosen_range = random.choice(allowed_ranges)
     return chr(random.randint(chosen_range[0], chosen_range[1]))
