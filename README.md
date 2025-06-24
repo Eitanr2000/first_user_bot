@@ -17,22 +17,22 @@
 
 1. Клонируйте репозиторий:
 
-```bash
+```
 git clone https://github.com/Eitanr2000/first-try.git
 ```
 2.Перейдите в папку проекта:
 
-```bash
+```
 cd first-try
 ```
 3.Убедитесь, что у вас установлен Python 3.8+:
 
-```bash
+```
 python --version
 ```
 4.Установите необходимые зависимости:
 
-```bash
+```
 pip install -r requirements.txt
 ```
 5.Получите необходимые ключи для Telegram API:
